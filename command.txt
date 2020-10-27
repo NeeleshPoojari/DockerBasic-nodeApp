@@ -1,0 +1,15 @@
+Docker run img    “op” rewrite default
+Docker start -a id
+Docket create img
+Docker system prune (delete container)
+Docker ps “—all”
+Docker log id
+Docker stop id
+Docker kill id
+
+Docker exec -it id command to execute
+
+Docker run -it id sh (shell)
+Docker build .
+
+Docker run -p 8080:8080 id
