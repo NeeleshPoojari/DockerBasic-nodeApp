@@ -1,5 +1,5 @@
 node {
-    def /usr/app
+    def usr/app
     stage('Clone repository') {
         /* Cloning the Repository to our Workspace */
 
